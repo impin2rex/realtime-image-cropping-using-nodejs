@@ -1,0 +1,32 @@
+{
+  "name": "realtime-image-cropping-using-nodejs",
+  "version": "1.0.0",
+  "description": "This is REST API to test realtime image cropping.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index"
+  },
+  "keywords": [
+    "image cropping using node js",
+    "javascript image cropping",
+    "image cropping using jimp"
+  ],
+  "author": "impin2rex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impin2rex/realtime-image-cropping-using-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/impin2rex/realtime-image-cropping-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/impin2rex/realtime-image-cropping-using-nodejs#readme"
+}
